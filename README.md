@@ -1,2 +1,2 @@
-Aptana-Joomla-Commands
+Joomla-Commands
 ======================
