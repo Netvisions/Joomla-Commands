@@ -21,8 +21,8 @@ with_defaults :scope => 'text.xml' do
 	<creationDate>$3</creationDate>
 	<copyright>(C) ${4:2012 AtomTech, Inc}. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<authorEmail>${5:bruno@atomtech.com.br}</authorEmail>
-	<authorUrl>http://www.${6:atomtech.com.br}</authorUrl>
+	<authorEmail>${5:joomla@netvisions.eu}</authorEmail>
+	<authorUrl>http://www.${6:netvisions.eu}</authorUrl>
 	<version>2.5.0</version>
 	<description>COM_${8:HELLO}_XML_DESCRIPTION</description>
 	<install>
